@@ -1,8 +1,8 @@
 {
   "versionName": "1.12.6",
-  "versionCode": 37,
-  "releasedAt": "2026-10-08T14:45:04Z",
-  "releaseUrl": "https://github.com/team-gruchat/gruchat-app-desktop-dev-release/releases/tag/v1.12.6-dev.37",
-  "mac": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-dev-release/releases/download/v1.12.6-dev.37/Dev.GruChat-1.12.6.dmg","size":266628794},
-  "windows": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-dev-release/releases/download/v1.12.6-dev.37/Dev.GruChat-1.12.37.msi","size":280920064}
+  "versionCode": 38,
+  "releasedAt": "2026-10-09T08:09:21Z",
+  "releaseUrl": "https://github.com/team-gruchat/gruchat-app-desktop-dev-release/releases/tag/v1.12.6-dev.38",
+  "mac": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-dev-release/releases/download/v1.12.6-dev.38/Dev.GruChat-1.12.6.dmg","size":266866025},
+  "windows": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-dev-release/releases/download/v1.12.6-dev.38/Dev.GruChat-1.12.38.msi","size":281112576}
 }
